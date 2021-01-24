@@ -1,5 +1,6 @@
 class Router
   # I don't know Ruby
+  # nem eu
     def initialize(controller)
       @controller = controller
       @running    = true
