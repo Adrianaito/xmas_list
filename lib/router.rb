@@ -1,4 +1,5 @@
 class Router
+  # I don't know Ruby
     def initialize(controller)
       @controller = controller
       @running    = true
